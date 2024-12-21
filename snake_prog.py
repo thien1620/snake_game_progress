@@ -24,4 +24,3 @@ with st.expander('Update 1.2'):
     st.progress(0)
     st.info('Note:Taking a break from finishing achievements system. Will come back to developing later.')
 
-st.write('LOL')

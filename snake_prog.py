@@ -18,9 +18,9 @@ with st.expander('Update 1.1'):
 with st.expander('Update 1.2'):
     st.write('Achievements system (100%)')
     st.progress(100)
-    st.write('Pause menu (0%)')
-    st.progress(0)
+    st.write('Pause menu (100%)')
+    st.progress(100)
     st.write('New gamemode (0%)')
     st.progress(0)
-    st.info('Note:Taking a break from finishing achievements system. Will come back to developing later.')
+    st.info("Note: Doing quick progress by finshing the pause menu. Will continue to the new game mode soon. :)")
 

@@ -24,5 +24,5 @@ with st.expander('Update 1.2'):
     st.progress(100)
     st.success("Update 1.2 is realeased!")
     st.balloons()
-st.success("Update 1.2 is realeased! Go play it now!")
+st.success("Update 1.2 is realeased! Go play it now! Now taking a break from these strees -_-")
 

@@ -22,5 +22,5 @@ with st.expander('Update 1.2'):
     st.progress(100)
     st.write('New gamemode (0%)')
     st.progress(0)
-    st.error('New gamemode is delayed cuz i don't have any ideas yet :P, but it'll get a new gamemode on 1.3 ;)')
+    st.error("New gamemode is delayed cuz i don't have any ideas yet :P, but it'll get a new gamemode on 1.3 ;)")
 

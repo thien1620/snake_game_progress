@@ -22,8 +22,7 @@ with st.expander('Update 1.2'):
     st.progress(100)
     st.write('New menu screen (100%)')
     st.progress(100)
-    with st.expander('Update 1.2.1'):
-        st.write('Added some tweaks to achievements page')
+    st.write('Update 1.2.1 - Added some tweaks to achievements page')
     st.success("Update 1.2 is realeased!")
     st.balloons()
 st.success("Update 1.2 is realeased! Go play it now! Now taking a break from these strees -_-")

@@ -23,6 +23,6 @@ with st.expander('Update 1.2'):
     st.write('New menu screen (100%)')
     st.progress(100)
     st.success("Update 1.2 is realeased!")
-    st.balloons
+    st.balloons()
 st.success("Update 1.2 is realeased! Go play it now!")
 

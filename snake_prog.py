@@ -25,5 +25,11 @@ with st.expander('Update 1.2'):
     st.write('Update 1.2.1 - Added some tweaks to achievements page')
     st.success("Update 1.2 is realeased!")
     st.balloons()
-st.success("Update 1.2 is realeased! Go play it now! Now taking a break from these strees -_-")
-
+with st.expander('Update 1.3'):
+    st.write("Menu logic enhancements (50%)")
+    st.progress(50)
+    st.write('Snake customization (0%)')
+    st.progress(0)
+    st.write('Background customization (0%)')
+    st.progress(0)
+    st.info('Paused development because of studing. Wii come back to development next week.')
